@@ -1,0 +1,10 @@
+﻿  main.c
+D:\软件编程\vs2022\vector实现底层\main.c(12,66): warning C4013: “vector_capacity”未定义；假设外部返回 int
+D:\软件编程\vs2022\vector实现底层\main.c(12,12): warning C4477: “printf”: 格式字符串“%zu”需要类型“unsigned __int64”的参数，但可变参数 2 拥有了类型“int”
+      D:\软件编程\vs2022\vector实现底层\main.c(12,12):
+      请考虑在格式字符串中使用“%u”
+      D:\软件编程\vs2022\vector实现底层\main.c(12,12):
+      请考虑在格式字符串中使用“%I32u”
+  
+D:\软件编程\vs2022\vector实现底层\main.c(35,5): warning C4013: “vector_destroy”未定义；假设外部返回 int
+  vector实现底层.vcxproj -> D:\软件编程\vs2022\vector实现底层\x64\Debug\vector实现底层.exe
